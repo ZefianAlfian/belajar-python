@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.fontSize": 16.2,
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontSize": 16.6,
+    "workbench.colorTheme": "Noctis Minimus",
+    "workbench.iconTheme": "vscode-icons"
+}
